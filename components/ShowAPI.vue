@@ -16,7 +16,6 @@ export default Vue.extend({
     }
   },
   beforeMount() {
-    console.log("========================")
     this.fetchSomething()
   },
   methods: {

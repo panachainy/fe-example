@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <ShowAPI/>
 </template>
 
 <script lang="ts">
